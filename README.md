@@ -49,7 +49,7 @@ O modelo de dados utilizado considera os seguintes campos principais:
 
 ## 📷 Visual do Dashboard
 
-<img src="" height="250" />
+<img src="https://github.com/wesleyorrr/Dashboards_business_Intelligence/blob/main/1.png" height="300" />
 
 ---
 
