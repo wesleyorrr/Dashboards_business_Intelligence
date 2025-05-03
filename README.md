@@ -61,12 +61,4 @@ O modelo de dados utilizado considera os seguintes campos principais:
 - Apoiar o time de vendas e liderança na definição de estratégias
 
 ---
-
-## 📫 Contato
-
-- GitHub: [https://github.com/wesleyorrr](https://github.com/wesleyorrr)
-- (Adicione e-mail ou LinkedIn aqui, se desejar)
-
----
-
 _"Transformar dados em decisões é o que separa empresas reativas das empresas inteligentes."_ 📊🚀
