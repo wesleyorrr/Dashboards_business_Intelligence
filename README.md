@@ -43,7 +43,7 @@ O modelo de dados utilizado considera os seguintes campos principais:
 - Segmento (ex: varejo, atacado, online, etc.)  
 - Produto ou serviço vendido  
 - Quantidade  
-- Cliente ou região (opcional)
+- Cliente ou região
 
 ---
 
